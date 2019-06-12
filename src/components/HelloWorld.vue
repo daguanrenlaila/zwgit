@@ -6,6 +6,10 @@
       <li>这是新增的li add new li1111111111111111111</li>
       <li>这是新增的li add new li11111111111111111121</li>
       <li>这是新增的li add new ajhdgasjg</li>
+<<<<<<< HEAD
+=======
+      <li>这是新增的li爱喝酒asjhdgjasgdahsjdgsajhdgsajdgsajhdgasjhdgasjdgasjhdgasjdg</li>
+>>>>>>> eaf32cdb2d6cb5f3808ed39bfccf134de8c03197
       <li>
         <a href="https://vuejs.org" target="_blank">
           Core Docs
