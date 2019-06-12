@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
     <ul>
-      <li>这是新增的li add new li</li>
+      <li>这是新增的li add new li1111111111111111111</li>
       <li>
         <a href="https://vuejs.org" target="_blank">
           Core Docs
