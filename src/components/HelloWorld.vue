@@ -5,7 +5,7 @@
     <ul>
       <li>
         <a href="https://vuejs.org" target="_blank">
-          核心文档 Dev
+          核心文档 Dev  master
         </a>
       </li>
       <li>
