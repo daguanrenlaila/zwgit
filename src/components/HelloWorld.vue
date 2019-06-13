@@ -5,11 +5,7 @@
     <ul>
       <li>
         <a href="https://vuejs.org" target="_blank">
-          核心文档 this is marster
-          this is base
-          hhhh
-          webpack
-          master
+          核心文档
         </a>
       </li>
       <li>
