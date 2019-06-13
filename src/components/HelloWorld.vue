@@ -1,20 +1,12 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h2>Essential Links</h2>
+    <h2>Vue测试文件</h2>
     <ul>
       <li>
         <a href="https://vuejs.org" target="_blank">
-          核心文档 this is master hahahh
-          this is a file
-          change second times
-          what is your name
-          add a new line
-          other message
+          核心文档
         </a>
-      </li>
-      <li>
-        this is a new li
       </li>
       <li>
         <a href="https://forum.vuejs.org" target="_blank">
