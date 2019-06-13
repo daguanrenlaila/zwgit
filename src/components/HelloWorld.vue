@@ -5,15 +5,7 @@
     <ul>
       <li>
         <a href="https://vuejs.org" target="_blank">
-          核心文档1111........
-          test change
-          this is local file
-          最新版哈哈哈
-          我是自己现在的代码
-          0........................
-          张自知则知之
-          扎登记卡数据库
-          咋打飒飒
+          核心文档
         </a>
       </li>
       <li>
