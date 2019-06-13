@@ -14,6 +14,9 @@
         </a>
       </li>
       <li>
+        this is a new li
+      </li>
+      <li>
         <a href="https://forum.vuejs.org" target="_blank">
           Forum
         </a>
