@@ -6,13 +6,6 @@
       <li>
         <a href="https://vuejs.org" target="_blank">
           核心文档
-          base
-          base
-          zw
-          change
-          newchange
-          最新的
-          科技
         </a>
       </li>
       <li>
