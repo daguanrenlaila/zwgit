@@ -12,6 +12,7 @@
         base
         this is change on origin
         this is new line
+        add new
       </li>
       <li>
         <a href="https://forum.vuejs.org" target="_blank">
