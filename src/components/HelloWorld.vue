@@ -5,7 +5,7 @@
     <ul>
       <li>
         <a href="https://vuejs.org" target="_blank">
-          核心文档 Dev master to test Allen
+          核心文档 Dev master to test Allen change to master
         </a>
       </li>
       <li>
