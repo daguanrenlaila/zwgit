@@ -11,6 +11,7 @@
       <li>
         base
         this is change on origin
+        this is new line
       </li>
       <li>
         <a href="https://forum.vuejs.org" target="_blank">
