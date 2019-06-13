@@ -5,15 +5,8 @@
     <ul>
       <li>
         <a href="https://vuejs.org" target="_blank">
-          核心文档
+          核心文档 this is marster
         </a>
-      </li>
-      <li>
-        base
-        this is change on origin
-        this is new line
-        add new
-        add new2
       </li>
       <li>
         <a href="https://forum.vuejs.org" target="_blank">
