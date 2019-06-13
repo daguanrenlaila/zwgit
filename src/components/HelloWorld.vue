@@ -5,7 +5,7 @@
     <ul>
       <li>
         <a href="https://vuejs.org" target="_blank">
-          核心文档 this is master
+          核心文档 this is master hahahh
           this is a file
         </a>
       </li>
