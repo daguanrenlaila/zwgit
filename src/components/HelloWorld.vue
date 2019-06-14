@@ -8,6 +8,7 @@
           核心文档
           安科技十大绿色健康大
           我已经被修改了
+          我是master
         </a>
       </li>
       <li>
@@ -67,7 +68,6 @@
       };
     }
   };
-
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
