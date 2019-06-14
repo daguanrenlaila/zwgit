@@ -6,12 +6,6 @@
       <li>
         <a href="https://vuejs.org" target="_blank">
           核心文档
-          安科技十大绿色健康大
-          我已经被修改了
-          我是master
-          我是分支哈哈哈
-          我又新增了
-          我是直接修改master
         </a>
       </li>
       <li>
