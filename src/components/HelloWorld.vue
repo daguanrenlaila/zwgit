@@ -6,13 +6,10 @@
       <li>
         <a href="https://vuejs.org" target="_blank">
           核心文档
-          我是足以新的代码哈哈哈哈
-          this is master
-          this is zw
-          this is new branch
-          add new line
-          我是落后的分支
         </a>
+      </li>
+      <li>
+        this is master file
       </li>
       <li>
         <a href="https://forum.vuejs.org" target="_blank">
