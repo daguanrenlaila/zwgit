@@ -6,11 +6,7 @@
       <li>
         <a href="https://vuejs.org" target="_blank">
           核心文档
-          askjdh阿萨德科技哈收到就好
-          this is master
-          this is zw
-          this is new branch
-          add new line
+          我是足以新的代码哈哈哈哈
         </a>
       </li>
       <li>
