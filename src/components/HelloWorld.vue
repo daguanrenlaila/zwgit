@@ -7,6 +7,7 @@
         <a href="https://vuejs.org" target="_blank">
           核心文档
           this is master
+          this is addfile
         </a>
       </li>
       <li>
