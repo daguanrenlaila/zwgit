@@ -6,9 +6,7 @@
       <li>
         <a href="https://vuejs.org" target="_blank">
           核心文档
-          this is master
-          this is zw
-          this is new branch
+          askjdh阿萨德科技哈收到就好
         </a>
       </li>
       <li>
