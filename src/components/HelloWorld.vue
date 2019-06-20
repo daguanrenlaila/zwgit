@@ -6,8 +6,7 @@
       <li>
         <a href="https://vuejs.org" target="_blank">
           核心文档
-          this is master
-          this is addfile
+          新增代码测试一下
         </a>
       </li>
       <li>
