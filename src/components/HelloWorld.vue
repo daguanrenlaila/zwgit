@@ -6,8 +6,6 @@
       <li>
         <a href="https://vuejs.org" target="_blank">
           核心文档
-          第二次修改
-          第三次修改
         </a>
       </li>
       <li>
